@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    padding: 30px;
+    margin-top: 90px;
+}
+input {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 20%;
+    height: 35px;
+}
+.login, .Google {
+    font-weight: bold;
+    text-align: center;
+}
+p{ 
+    font-weight: 100;
+}
+.login {
+    margin-top: 35px;
+    background-color: black;
+    color: white;
+}
+.password{
+    margin-top: 10px;
+}
+.para{
+    color: blue;
+    line-height: 200%;
+}
+.Google {
+    background-image: url(Untitled.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 40px;
+}
